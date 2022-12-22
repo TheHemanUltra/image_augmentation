@@ -21,7 +21,7 @@ Download and install [Python 3.10.0](https://www.python.org/ftp/python/3.10.0/py
 
 2. Go to folder where you want to clone this repository and use below command to clone this repo to your local machine.
    ```sh
-   git clone https://github.com/ipiyushvaghela/ImageAugmentation.git
+   git clone this repo
    ```
 3. Create virtual Environment 
    ```sh
@@ -40,8 +40,3 @@ Download and install [Python 3.10.0](https://www.python.org/ftp/python/3.10.0/py
 
 Now we are all set to go. just open `implementation.py` and change 3 parameter according to yours and then run `implementation.py` file.
 
-## Contact
-
-Piyush Vaghela - [@ipiyushvaghela](https://twitter.com/ipiyushvaghela) - ipiyushvaghela@gmail.com
-
-Project Link -  [github.com/ipiyushvaghela/ImageAugmentation](https://github.com/ipiyushvaghela/ImageAugmentation.git)
